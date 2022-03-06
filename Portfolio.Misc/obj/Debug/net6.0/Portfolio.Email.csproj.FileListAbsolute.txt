@@ -1,0 +1,12 @@
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Email.deps.json
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Email.dll
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Email.pdb
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.csproj.AssemblyReference.cache
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.AssemblyInfoInputs.cache
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.AssemblyInfo.cs
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.csproj.CoreCompileInputs.cache
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.dll
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/refint/Portfolio.Email.dll
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Email.pdb
+/Users/amirhan/Desktop/Voxsie-Portfolio/Portfolio.Misc/obj/Debug/net6.0/ref/Portfolio.Email.dll
